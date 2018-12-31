@@ -4,5 +4,5 @@ ruby:
 # command to install dependencies
 # added ruby test
 script: ruby test/test_pga_leaderboard.rb
- notifications:
-    slack: devops-yhe5868: LmqNXtgjbG33Pm56KAb0KckM
+#notifications:
+  #slack: devops-yhe5868: LmqNXtgjbG33Pm56KAb0KckM
